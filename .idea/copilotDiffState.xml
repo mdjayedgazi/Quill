@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/style.css">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/style.css" />
+              <option name="originalContent" value=".mindful {&#10;    background-color: #8F6AFD;&#10;}&#10;&#10;.simple {&#10;    background-color: #FF8627;&#10;}" />
+              <option name="updatedContent" value=".mindful {&#10;    background-color: #8F6AFD;&#10;}&#10;&#10;.simple {&#10;    background-color: #FF8627;&#10;}&#10;&#10;/* image reset */&#10;img {&#10;    display: block;&#10;    max-width: 100%;&#10;    height: auto;&#10;}&#10;&#10;/* Constrain feature images while keeping them responsive */&#10;.feature-img {&#10;    max-width: 300px;&#10;    width: 100%;&#10;    height: auto;&#10;}" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
