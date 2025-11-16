@@ -1,7 +1,55 @@
-.mindful {
-    background-color: #8F6AFD;
+h1 {
+    font-weight: 800;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 1.2;
+    letter-spacing: -2px;
+    font-size: 62px;
 }
 
-.simple {
-    background-color: #FF8627;
+
+h2 {
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.2;
+    letter-spacing: -2px;
+    font-size: 48px;
+}
+
+h3 {
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.2;
+    letter-spacing: -2px;
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 32px;
+}
+
+h5 {
+    font-size: 24px;
+}
+
+p {
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+a {
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+
+.small {
+    font-size: 12px;
+}
+
+ul {
+    list-style: none;
 }
