@@ -1,40 +1,38 @@
+h1, h2, h3, h4, h5 {
+    line-height: 1.2;
+    letter-spacing: -2px;
+    font-family: 'poppins', sans-serif;
+    color: #212529;
+}
+
+
 h1 {
     font-weight: 800;
     text-align: center;
     text-transform: capitalize;
-    line-height: 1.2;
-    letter-spacing: -2px;
     font-size: 62px;
-    font-family: 'poppins', sans-serif;
 }
 
 
 h2 {
     font-weight: 700;
     text-transform: capitalize;
-    line-height: 1.2;
-    letter-spacing: -2px;
     font-size: 48px;
-    font-family: 'poppins', sans-serif;
+
 }
 
 h3 {
     font-weight: 700;
     text-transform: capitalize;
-    line-height: 1.2;
-    letter-spacing: -2px;
     font-size: 40px;
-    font-family: 'poppins', sans-serif;
 }
 
 h4 {
     font-size: 32px;
-    font-family: 'poppins', sans-serif;
 }
 
 h5 {
     font-size: 24px;
-    font-family: 'poppins', sans-serif;
 }
 
 p {
@@ -42,7 +40,7 @@ p {
     text-transform: capitalize;
     line-height: 1.5;
     font-size: 20px;
-    font-family: 'poppins', sans-serif;
+    color: #343a40;
 }
 
 a {
@@ -50,12 +48,13 @@ a {
     text-decoration: none;
     text-transform: capitalize;
     font-size: 16px;
-    font-family: 'poppins', sans-serif;
+    color: #343a40;
 }
 
 .small {
     font-size: 12px;
     font-family: 'poppins', sans-serif;
+    color: #343a40;
 }
 
 ul {
@@ -89,4 +88,17 @@ ul {
     padding: 5px 15px 5px 15px;
     margin-top: 15px;
 
+}
+
+.get_now {
+    background-color: #12b886;
+    padding: 5px 15px 5px 15px;
+    justify-items: center;
+}
+
+.get {
+    background-color: #fd7e14;
+    border: 2px solid #495057;
+    padding: 5px 15px 5px 15px;
+    justify-items: center;
 }
