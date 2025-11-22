@@ -35,7 +35,7 @@ h5 {
     font-size: 24px;
 }
 
-p {
+p, a, .small-text {
     font-weight: 400;
     text-transform: capitalize;
     line-height: 1.5;
@@ -44,11 +44,8 @@ p {
 }
 
 a {
-    font-weight: 400;
     text-decoration: none;
-    text-transform: capitalize;
     font-size: 16px;
-    color: #343a40;
 }
 
 .small {
@@ -68,32 +65,8 @@ ul {
 }
 
 .simple {
-    background-color: #6741d9;
+    background-color: #f59f00;
     color: #ffffff;
-}
-
-.login {
-    background-color: #228be6;
-    color: #ffffff;
-    border: 2px solid #495057;
-    padding: 5px 15px 5px 15px;
-    margin-bottom: 15px;
-
-}
-
-.register {
-    background-color: #fd7e14;
-    color: #ffffff;
-    border: 2px solid #495057;
-    padding: 5px 15px 5px 15px;
-    margin-top: 15px;
-
-}
-
-.get_now {
-    background-color: #12b886;
-    padding: 5px 15px 5px 15px;
-    justify-items: center;
 }
 
 .get {
@@ -101,4 +74,21 @@ ul {
     border: 2px solid #495057;
     padding: 5px 15px 5px 15px;
     justify-items: center;
+}
+
+.small-text {
+    font-size: 12px;
+}
+
+.btn {
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-primary {
+    color: #339af0;
+}
+
+.btn-secndary {
+    color: #9775fa;
 }
