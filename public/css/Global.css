@@ -99,6 +99,7 @@ ul {
 }
 
 .from-section {
+    display: flex;
     justify-content: center;
     margin: 50px 200px 50px 200px;
 }
