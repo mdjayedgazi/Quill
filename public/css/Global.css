@@ -1,0 +1,113 @@
+body {
+    background-color: #e9ecef;
+}
+
+h1, h2, h3, h4, h5 {
+    line-height: 1.2;
+    letter-spacing: -2px;
+    font-family: 'poppins', sans-serif;
+    color: #212529;
+}
+
+h1 {
+    font-weight: 800;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 62px;
+}
+
+h2 {
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 48px;
+
+}
+
+h3 {
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 32px;
+}
+
+h5 {
+    font-size: 24px;
+}
+
+p, a, .small-text {
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 1.5;
+    font-size: 20px;
+    color: #343a40;
+}
+
+a {
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.small {
+    font-size: 12px;
+    font-family: 'poppins', sans-serif;
+    color: #343a40;
+}
+
+ul {
+    list-style: none;
+    font-family: 'poppins', sans-serif;
+}
+
+.mindful {
+    background-color: #3b5bdb;
+    color: #ffffff;
+}
+
+.simple {
+    background-color: #f59f00;
+    color: #ffffff;
+}
+
+.small-text {
+    font-size: 12px;
+}
+
+.btn {
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.btn-primary:link, .btn-primary:visited {
+    color: #4dabf7;
+}
+
+.btn-primary:hover, .btn-primary:active {
+    color: #1c7ed6;
+}
+
+.btn-secondary:link, .btn-secondary:visited {
+    color: #9775fa;
+}
+
+.btn-secondary:hover, .btn-secondary:active {
+    color: #7048e8;
+}
+
+.from-section {
+    display: flex;
+    justify-content: center;
+    margin: 50px 200px 50px 200px;
+}
+
+.form-class {
+    background-color: #ceecef;
+    justify-items: center;
+    border: solid;
+    margin: 1px 200px 1px 200px;
+    padding: 40px;
+}
